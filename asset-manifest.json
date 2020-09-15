@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/French-Learning-Web-app-react/static/css/main.43686a37.chunk.css",
+    "main.js": "/French-Learning-Web-app-react/static/js/main.78ff781f.chunk.js",
+    "main.js.map": "/French-Learning-Web-app-react/static/js/main.78ff781f.chunk.js.map",
+    "runtime-main.js": "/French-Learning-Web-app-react/static/js/runtime-main.2a8be78f.js",
+    "runtime-main.js.map": "/French-Learning-Web-app-react/static/js/runtime-main.2a8be78f.js.map",
+    "static/js/2.1847e0ee.chunk.js": "/French-Learning-Web-app-react/static/js/2.1847e0ee.chunk.js",
+    "static/js/2.1847e0ee.chunk.js.map": "/French-Learning-Web-app-react/static/js/2.1847e0ee.chunk.js.map",
+    "index.html": "/French-Learning-Web-app-react/index.html",
+    "precache-manifest.03c934bbb43fcc8ef75fa9c4c64f9a7e.js": "/French-Learning-Web-app-react/precache-manifest.03c934bbb43fcc8ef75fa9c4c64f9a7e.js",
+    "service-worker.js": "/French-Learning-Web-app-react/service-worker.js",
+    "static/css/main.43686a37.chunk.css.map": "/French-Learning-Web-app-react/static/css/main.43686a37.chunk.css.map",
+    "static/js/2.1847e0ee.chunk.js.LICENSE.txt": "/French-Learning-Web-app-react/static/js/2.1847e0ee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a8be78f.js",
+    "static/js/2.1847e0ee.chunk.js",
+    "static/css/main.43686a37.chunk.css",
+    "static/js/main.78ff781f.chunk.js"
+  ]
+}
